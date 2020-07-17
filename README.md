@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi there 👋
+
+🌱 I’m currently learning ...
+ - C
+ - Java
+ - ECMAScript, Typescript
+ - NodeJS
+ - C#
+ - Rust
+ - Python
+ - Android
+ - Kotlin
+ - x86 Assembly
+ 
+📫 How to reach me ...
+ - [Twitter](https://twitter.com/storycraft8814)
+ - [Email](mailto://storycraft@pancake.sh)
 
 <!--
 **storycraft/storycraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
