@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning ...
  - C
+ - C++
  - Java
  - ECMAScript, Typescript
  - NodeJS
