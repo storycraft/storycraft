@@ -12,9 +12,9 @@
  - Android
  - Kotlin
  - x86 Assembly
- - Linux
- - Windows
- - Embedded system
+ - Linux kernel
+ - Windows api
+ - Embedded system programming
  
 📫 How to reach me ...
  - [Twitter](https://twitter.com/storycraft8814)
