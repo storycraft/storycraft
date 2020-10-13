@@ -12,6 +12,9 @@
  - Android
  - Kotlin
  - x86 Assembly
+ - Linux
+ - Windows
+ - Embedded system
  
 📫 How to reach me ...
  - [Twitter](https://twitter.com/storycraft8814)
