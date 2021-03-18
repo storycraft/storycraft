@@ -8,12 +8,17 @@ Interesting lists
  - NodeJS
  - C#
  - Rust
+ - Go
+ - Swift
+ - D
  - Python
  - Android
  - Kotlin
  - x86 Assembly
  - Linux kernel
  - Windows api
+ - Powershell
+ - Batch
  - Embedded system programming
  - Make
  
